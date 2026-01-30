@@ -55,6 +55,7 @@ Requirement analysis
 Structured test design
 
 Early defect prevention
-![image.png](attachment:2689149c-cea2-41df-ba38-44e3d65371e4:image.png)
-![image.png](attachment:1ade6d8d-a81b-4f9b-a017-2bd0195a86bc:image.png)
-![image.png](attachment:7343aa03-062b-4015-8088-4f0981084a5c:image.png)
+<img width="1540" height="555" alt="Captura de pantalla 2026-01-18 214900" src="https://github.com/user-attachments/assets/e6dda50d-be10-4dbd-860b-b017fe8d5bb4" />
+<img width="1289" height="292" alt="Captura de pantalla 2026-01-18 220034" src="https://github.com/user-attachments/assets/17908f8c-f29c-4a54-8e16-2f4adc62a614" />
+<img width="1463" height="694" alt="Captura de pantalla 2026-01-18 220016" src="https://github.com/user-attachments/assets/ac02b1ec-2392-4b16-9b9c-7574f619ca18" />
+
